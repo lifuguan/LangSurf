@@ -1,5 +1,5 @@
 # LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding
-[**Webpage**](https://langsurf.github.io/) | [**Full Paper**](https://arxiv.org/pdf/2312.16084.pdf) | [**Video**](https://www.youtube.com/watch?v=XMlyjsei-Es)<br>
+[**Webpage**](https://langsurf.github.io/) | [**Full Paper**](https://arxiv.org/pdf/2412.17635) | [**Video**](https://www.youtube.com/watch?v=jU83kljQaR0&t=2s)<br>
 
 [Hao Li*](https://lifuguan.github.io/), [Roy Qin*†](https://minghanqin.github.io/), Zhengyu Zou*, Diqi He, Bohan Li, Bingquan Dai, [Dingwen Zhang†](https://vision-intelligence.com.cn), Junwei Han<br>(\* indicates equal contribution, † means Co-corresponding author)<br>
 

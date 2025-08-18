@@ -1,0 +1,8 @@
+.DS_Store
+*/build
+submodules/simple-knn/build
+
+submodules/simple-knn/simple_knn.egg-info/dependency_links.txt
+submodules/simple-knn/simple_knn.egg-info/PKG-INFO
+submodules/simple-knn/simple_knn.egg-info/SOURCES.txt
+submodules/simple-knn/simple_knn.egg-info/top_level.txt
